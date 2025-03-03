@@ -1,4 +1,4 @@
-# exercios-lpr
+# exercio-lpr
 
 ## 📝 Descrição <a name="Descrição"></a>
 
